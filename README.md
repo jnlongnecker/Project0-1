@@ -1,3 +1,6 @@
+# Project Comments
+Be sure to separate your helper so that it only handles what it needs to. If we keep the trigger logicless to keep it easy to maintain but we just put everything in the same helper, that defeats a lot of the benefits we get from using helper classes.
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
